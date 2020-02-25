@@ -1,2 +1,3 @@
 # EbruToka-Destek-Vektor-Makineleri-SVM
-Destek Vektör Makineleri  - Basitleştirilmiş Ardışık Minimal Optimizasyon
+
+Türkçe açıklamalarıyla, Ardışık Minimal Optimizasyon kullanılarak yapılmış Destek Vektör Makineleri algoritması.
